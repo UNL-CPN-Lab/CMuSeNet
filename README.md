@@ -4,7 +4,7 @@
 
 ---
 
-[![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-blue)](https://github.com/sshin11-cpn-unl/CMuSeNet)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-blue)]()
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-CMuSeNet-orange)](https://huggingface.co/sshinCPN/CMuSeNet)
 [![IEEE Dataport](https://img.shields.io/badge/IEEE-Dataport-blue)](https://ieee-dataport.org/documents/cv-musenet-complex-valued-multi-signal-segmentation-dataset-0)
 [![License](https://img.shields.io/badge/License-GPL%20Family-green)]()
