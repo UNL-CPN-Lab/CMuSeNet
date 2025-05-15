@@ -5,7 +5,7 @@
 ---
 
 [![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-blue)]()
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-CMuSeNet-orange)](https://huggingface.co/sshinCPN/CMuSeNet)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-CMuSeNet-orange)](https://huggingface.co/cpnlab/CMuSeNet)
 [![IEEE Dataport](https://img.shields.io/badge/IEEE-Dataport-blue)](https://ieee-dataport.org/documents/cv-musenet-complex-valued-multi-signal-segmentation-dataset-0)
 [![License](https://img.shields.io/badge/License-GPL%20Family-green)]()
 
@@ -72,7 +72,7 @@ Detailed technical description available in:
 
 ## Model and Dataset Links
 
-- [Hugging Face Model](https://huggingface.co/sshinCPN/CMuSeNet)
+- [Hugging Face Model](https://huggingface.co/cpnlab/CMuSeNet)
 - [IEEE Dataport Dataset](https://ieee-dataport.org/documents/cv-musenet-complex-valued-multi-signal-segmentation-dataset-0)
 - IEEE Xplore Publication: *(Link will be updated once available)*
 
